@@ -1,2 +1,2 @@
-# First-project
-My first python project on github.
+# Python basics
+My first python projects on github.
