@@ -1,1 +1,0 @@
-For this project a personalised API KEY is needed. This means to use the code you must generate your own API KEY for chatgpt from "https://platform.openai.com/api-keys" and replace the string on line 46 with your own API Key for the program to function.
