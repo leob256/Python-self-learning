@@ -1,2 +1,4 @@
-# Python basics
-My first python projects on github.
+# Python self-learning
+
+Hi there, in this folder I have all files and projects related to my journey of teaching myself python at home and separate to school in order further my knowledge and understanding to prepare for a later career that I hope to pursue in programming. My learning is going far beyond what I would learn in my current school curriculum and I hope that it will allow me to receive standout results in all computing subjects I take in the future. Furthermore, these skills I learn will hopefully be transferrable across languages enhancing my depth of knowledge in the computing field as I progress. Also, I genuinely enjoy programming and coding and using computing systems and I hope to be able to use these skills to creatively build more complex programs in the future and perhaps pursue and also profitable interest if I become highly skilled in a couple years time. Thanks for acknowledging my learning journey and I hope this may also be able to inspire others who see my profile to take computing further themselves.
+
